@@ -1,0 +1,74 @@
+* {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+
+
+#firstRow {
+    display: flex;
+    flex-direction: row;
+}
+#clearBtn {
+    border-radius: 20px;
+    padding: 2vh;
+    font-size: 4vh;
+
+}
+#pnBtn {
+    border-radius: 20px;
+    padding: 2vh;
+    font-size: 4vh;
+}
+#percentBtn {
+    border-radius: 20px;
+    padding: 2vh;
+    font-size: 4vh;
+}
+#divideBtn {
+    border-radius: 20px;
+    padding: 2vh;
+    font-size: 4vh;
+}
+
+
+
+#secondRow {
+    display: flex;
+    flex-direction: row;
+    align-content: space-evenly;
+}
+
+#sevenBtn {
+    border-radius: 20px;
+    padding: 2vh;
+    font-size: 4vh;
+}
+#eightBtn {
+    border-radius: 20px;
+    padding: 2vh;
+    font-size: 4vh;
+}
+#nineBtn {
+    border-radius: 20px;
+    padding: 2vh;
+    font-size: 4vh;
+}
+#multiplyBtn {
+    border-radius: 20px;
+    padding: 2vh;
+    font-size: 4vh;
+}
+
+
+#thirdRow {
+    display: flex;
+    flex-direction: row;
+}
+#fourthRow {
+    display:flex;
+    flex-direction: row;
+}
+#fifthRow {
+    display: flex; 
+    flex-direction: row;
+}
